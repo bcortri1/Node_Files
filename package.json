@@ -1,0 +1,14 @@
+{
+  "name": "node_files",
+  "version": "1.0.0",
+  "description": "Program similar to standard UNIX utility cat",
+  "main": "step1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "blake",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0"
+  }
+}
